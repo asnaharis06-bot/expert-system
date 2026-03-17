@@ -97,7 +97,7 @@ LinkedIn: https://www.linkedin.com/in/asna-haris-684058319
 
 ## 🔗 Project Links
 
-**GitHub:** 
+**GitHub:** https://github.com/asnaharis06-bot/expert-system
 
 ---
 
